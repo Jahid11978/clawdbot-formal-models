@@ -1,3 +1,12 @@
+---
+
+**Owner:** Jahid  
+**Email:** jahid11978@outlook.com  
+**Platform:** JAHIDS.AI  
+**Organization:** mdjahid11978-design  
+
+---
+
 # clawdbot-formal-models
 
 Machine-checkable **security models** for Clawdbot, primarily in **TLA+** checked with **TLC**.
